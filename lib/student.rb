@@ -7,6 +7,6 @@ class Student < User
   @@new
 
   def initialize
-    @@ = []
+    @@new = []
   end
 end
