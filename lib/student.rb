@@ -5,6 +5,6 @@ class Student < User
 
   
   def initialize(new)
-    @knowledge => []
+    @knowledge{:[]}
   end
 end
